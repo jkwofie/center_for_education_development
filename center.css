@@ -1,0 +1,12 @@
+.{
+	margin: 0px;
+	padding:0px; 
+	color: red;
+	background: blue;
+}
+
+body{
+   width: 100%;
+   margin:0px auto;
+   background: #0000;
+}
